@@ -1,8 +1,8 @@
 # CentOS-7-Repository
 CentOS 7.0 Repository after EOL
 
-
-```nano /etc/yum.repos.d/CentOS-Base.repo
+nano /etc/yum.repos.d/CentOS-Base.repo
+```
 [base]
 name=CentOS-$releasever - Base
 baseurl=http://vault.centos.org/7.9.2009/os/$basearch/
