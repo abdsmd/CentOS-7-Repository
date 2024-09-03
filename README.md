@@ -2,6 +2,7 @@
 CentOS 7.0 Repository after EOL
 
 nano /etc/yum.repos.d/CentOS-Base.repo
+nano /etc/yum.repos.d/Centos-Base.repo
 ```
 [base]
 name=CentOS-$releasever - Base
